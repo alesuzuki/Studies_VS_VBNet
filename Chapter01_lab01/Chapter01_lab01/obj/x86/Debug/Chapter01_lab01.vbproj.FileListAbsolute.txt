@@ -1,0 +1,11 @@
+C:\Users\Alessandra\AppData\Local\Temporary Projects\Chapter01_lab01\bin\Debug\Chapter01_lab01.exe
+C:\Users\Alessandra\AppData\Local\Temporary Projects\Chapter01_lab01\bin\Debug\Chapter01_lab01.pdb
+C:\Users\Alessandra\AppData\Local\Temporary Projects\Chapter01_lab01\bin\Debug\Chapter01_lab01.xml
+C:\Users\Alessandra\AppData\Local\Temporary Projects\Chapter01_lab01\obj\x86\Debug\Chapter01_lab01.Resources.resources
+C:\Users\Alessandra\AppData\Local\Temporary Projects\Chapter01_lab01\obj\x86\Debug\Chapter01_lab01.vbproj.GenerateResource.Cache
+C:\Users\Alessandra\AppData\Local\Temporary Projects\Chapter01_lab01\obj\x86\Debug\Chapter01_lab01.exe
+C:\Users\Alessandra\AppData\Local\Temporary Projects\Chapter01_lab01\obj\x86\Debug\Chapter01_lab01.xml
+C:\Users\Alessandra\AppData\Local\Temporary Projects\Chapter01_lab01\obj\x86\Debug\Chapter01_lab01.pdb
+C:\Users\Alessandra\Documents\GitHub\Studies_VS_VBNet\Chapter01_lab01\Chapter01_lab01\obj\x86\Debug\Chapter01_lab01.exe
+C:\Users\Alessandra\Documents\GitHub\Studies_VS_VBNet\Chapter01_lab01\Chapter01_lab01\obj\x86\Debug\Chapter01_lab01.xml
+C:\Users\Alessandra\Documents\GitHub\Studies_VS_VBNet\Chapter01_lab01\Chapter01_lab01\obj\x86\Debug\Chapter01_lab01.pdb

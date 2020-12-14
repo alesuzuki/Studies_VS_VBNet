@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WindowsApplication02_Forms_and_Toolboxes", "WindowsApplication02_Forms_and_Toolboxes\WindowsApplication02_Forms_and_Toolboxes.vbproj", "{4C92D4A4-91E8-41CE-8726-EFD2C4B7E76E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C92D4A4-91E8-41CE-8726-EFD2C4B7E76E}.Debug|x86.ActiveCfg = Debug|x86
+		{4C92D4A4-91E8-41CE-8726-EFD2C4B7E76E}.Debug|x86.Build.0 = Debug|x86
+		{4C92D4A4-91E8-41CE-8726-EFD2C4B7E76E}.Release|x86.ActiveCfg = Release|x86
+		{4C92D4A4-91E8-41CE-8726-EFD2C4B7E76E}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
